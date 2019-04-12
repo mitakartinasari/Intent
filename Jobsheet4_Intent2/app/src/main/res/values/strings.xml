@@ -1,0 +1,7 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+    <string name="app_name">Jobsheet4_Intent2</string>
+    <string
+        name ="editText_url"
+        android:orientation="vertical"
+        >http:www.polinema.ac.id</string>
+</resources>
